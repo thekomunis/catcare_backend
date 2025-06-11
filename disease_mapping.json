@@ -1,0 +1,558 @@
+{
+  "Actinobacillus Pleuropneumonia": {
+    "description": "A bacterial disease causing pleuropneumonia in pigs, leading to severe respiratory distress and lung lesions.",
+    "treatment": "Treatment includes antibiotics and improved herd management; vaccination and biosecurity measures help prevent outbreaks."
+  },
+  "Actinobacillus Suis": {
+    "description": "A bacterial infection in pigs that can cause septicemia, pneumonia, and sudden death, especially in young pigs.",
+    "treatment": "Antibiotic therapy is recommended; good hygiene and management practices reduce risk."
+  },
+  "African Swine Fever": {
+    "description": "A highly contagious viral disease of pigs characterized by fever, internal bleeding, and high mortality.",
+    "treatment": "There is no specific treatment; control relies on strict biosecurity, culling, and movement restrictions."
+  },
+  "Allergic Rhinitis": {
+    "description": "An inflammatory condition of the nasal mucosa in animals, often caused by allergens such as dust or pollen.",
+    "treatment": "Management includes reducing exposure to allergens and administering antihistamines or corticosteroids."
+  },
+  "Arthritis": {
+    "description": "Inflammation of the joints, which can be caused by infection, injury, or degenerative conditions in animals.",
+    "treatment": "Treatment depends on the cause and may include antibiotics, anti-inflammatory drugs, and supportive care."
+  },
+  "Blue Tongue": {
+    "description": "A viral disease affecting ruminants, especially sheep, causing fever, swelling, and cyanosis of the tongue.",
+    "treatment": "No specific treatment; supportive care and vector control are important. Vaccination is available in some regions."
+  },
+  "Blue Tongue Disease": {
+    "description": "Another term for Bluetongue, a viral disease of ruminants transmitted by biting midges.",
+    "treatment": "Supportive care and vector control; vaccination can help prevent outbreaks."
+  },
+  "Blue Tongue Virus": {
+    "description": "The virus responsible for Bluetongue disease in ruminants, primarily affecting sheep and cattle.",
+    "treatment": "No direct treatment; prevention relies on vaccination and controlling insect vectors."
+  },
+  "Bluetongue": {
+    "description": "A non-contagious, insect-borne viral disease of ruminants, especially sheep, causing fever and swelling of the mouth and tongue.",
+    "treatment": "Supportive care and vector control; vaccination is used in endemic areas."
+  },
+  "Bluetongue Virus": {
+    "description": "The causative agent of Bluetongue disease in ruminants, especially sheep.",
+    "treatment": "Management includes vaccination and reducing exposure to insect vectors."
+  },
+  "Bordetella Infection": {
+    "description": "A bacterial infection in animals, often causing respiratory disease such as atrophic rhinitis in pigs and kennel cough in dogs.",
+    "treatment": "Treatment includes antibiotics and supportive care; vaccination and good hygiene help prevent infection."
+  },
+  "Bovine Coccidiosis": {
+    "description": "A parasitic disease in cattle caused by Eimeria species, leading to diarrhea and weight loss, especially in young animals.",
+    "treatment": "Anticoccidial drugs and improved sanitation are used for treatment and prevention."
+  },
+  "Bovine Influenza": {
+    "description": "A viral respiratory disease in cattle, causing fever, coughing, and nasal discharge.",
+    "treatment": "Supportive care is provided; vaccination and biosecurity measures help prevent outbreaks."
+  },
+  "Bovine Johne's Disease": {
+    "description": "A chronic bacterial infection in cattle caused by Mycobacterium avium subspecies paratuberculosis, resulting in diarrhea and weight loss.",
+    "treatment": "There is no effective treatment; control relies on herd management and culling of infected animals."
+  },
+  "Bovine Leukemia Virus": {
+    "description": "A retrovirus that infects cattle, causing enzootic bovine leukosis, which may lead to lymphosarcoma.",
+    "treatment": "No specific treatment; control is based on testing and removing infected animals from the herd."
+  },
+  "Bovine Mastitis": {
+    "description": "An inflammation of the mammary gland in dairy cattle, usually caused by bacterial infection, leading to reduced milk production and quality.",
+    "treatment": "Treatment includes intramammary antibiotics and improved milking hygiene; prevention focuses on sanitation and culling chronic cases."
+  },
+  "Bovine Parainfluenza": {
+    "description": "A viral respiratory infection in cattle caused by parainfluenza virus type 3, resulting in coughing, nasal discharge, and fever.",
+    "treatment": "Supportive care and vaccination are the main strategies for control and prevention."
+  },
+  "Bovine Pneumonia": {
+    "description": "A respiratory disease in cattle characterized by inflammation of the lungs, often caused by bacteria or viruses.",
+    "treatment": "Treatment includes antibiotics, anti-inflammatories, and supportive care; prevention involves vaccination and good management."
+  },
+  "Bovine Respiratory Disease": {
+    "description": "A complex of respiratory infections in cattle, often involving multiple pathogens and stress factors, leading to pneumonia and economic loss.",
+    "treatment": "Treatment includes antibiotics, anti-inflammatories, and supportive care; prevention relies on vaccination and minimizing stress."
+  },
+  "Bovine Respiratory Disease Complex": {
+    "description": "A multifactorial respiratory illness in cattle involving viruses, bacteria, and environmental stressors.",
+    "treatment": "Management includes antibiotics, supportive care, and vaccination programs."
+  },
+  "Bovine Respiratory Syncytial Virus": {
+    "description": "A viral infection in cattle causing respiratory disease, especially in young calves, with symptoms like coughing and nasal discharge.",
+    "treatment": "Supportive care and vaccination are used for treatment and prevention."
+  },
+  "Bovine Tuberculosis": {
+    "description": "A chronic bacterial disease in cattle caused by Mycobacterium bovis, leading to the formation of tubercles in organs, especially the lungs.",
+    "treatment": "There is no effective treatment; control relies on testing, culling, and movement restrictions."
+  },
+  "Bovine Viral Diarrhea": {
+    "description": "A contagious viral disease in cattle caused by Bovine Viral Diarrhea Virus (BVDV), resulting in diarrhea, immunosuppression, and reproductive losses.",
+    "treatment": "Supportive care and vaccination are used for control and prevention."
+  },
+  "Canine Cough": {
+    "description": "Also known as kennel cough, a highly contagious respiratory disease in dogs caused by various viruses and bacteria, including Bordetella bronchiseptica.",
+    "treatment": "Treatment includes cough suppressants, antibiotics if bacterial infection is present, and vaccination for prevention."
+  },
+  "Canine Distemper": {
+    "description": "A serious viral disease in dogs caused by canine distemper virus, affecting the respiratory, gastrointestinal, and nervous systems.",
+    "treatment": "No specific treatment; supportive care and vaccination are essential for prevention."
+  },
+  "Canine Flu": {
+    "description": "A contagious respiratory disease in dogs caused by canine influenza virus, leading to coughing, fever, and nasal discharge.",
+    "treatment": "Supportive care is provided; vaccination can help prevent infection."
+  },
+  "Canine Heartworm Disease": {
+    "description": "A parasitic disease in dogs caused by Dirofilaria immitis, leading to heart and lung damage.",
+    "treatment": "Treatment involves specific antiparasitic medications; prevention is achieved with regular heartworm preventives."
+  },
+  "Canine Hepatitis": {
+    "description": "A viral infection in dogs caused by canine adenovirus type 1, affecting the liver and other organs.",
+    "treatment": "Supportive care is provided; vaccination is effective for prevention."
+  },
+  "Canine Infectious Hepatitis": {
+    "description": "A contagious viral disease in dogs caused by canine adenovirus type 1, resulting in liver inflammation and systemic illness.",
+    "treatment": "Supportive care and vaccination are key for management and prevention."
+  },
+  "Canine Influenza": {
+    "description": "A contagious respiratory disease in dogs caused by canine influenza virus, leading to coughing, fever, and nasal discharge.",
+    "treatment": "Supportive care is provided; vaccination can help prevent infection."
+  },
+  "Canine Leptospirosis": {
+    "description": "A bacterial disease in dogs caused by Leptospira species, affecting the kidneys and liver.",
+    "treatment": "Antibiotic therapy and supportive care are used; vaccination and avoiding contaminated water help prevent infection."
+  },
+  "Canine Parvovirus": {
+    "description": "A highly contagious viral disease in dogs, especially puppies, causing severe vomiting and diarrhea.",
+    "treatment": "Supportive care is critical; vaccination is the best prevention."
+  },
+  "Caprine Arthritis": {
+    "description": "A chronic joint disease in goats, often caused by Caprine Arthritis Encephalitis Virus (CAEV).",
+    "treatment": "No cure; management includes supportive care and culling affected animals."
+  },
+  "Caprine Arthritis Encephalitis": {
+    "description": "A viral disease in goats caused by CAEV, leading to arthritis, encephalitis, and mastitis.",
+    "treatment": "No specific treatment; control relies on herd management and culling infected animals."
+  },
+  "Caprine Arthritis Encephalitis Virus": {
+    "description": "The virus responsible for Caprine Arthritis Encephalitis in goats, causing chronic joint and neurological disease.",
+    "treatment": "No cure; prevention is based on testing and removing infected animals."
+  },
+  "Caprine Pleuropneumonia": {
+    "description": "A contagious bacterial disease in goats, causing severe pneumonia and pleuritis.",
+    "treatment": "Antibiotic therapy and improved management practices are recommended."
+  },
+  "Caprine Respiratory Disease": {
+    "description": "A group of respiratory illnesses in goats caused by various pathogens, leading to coughing and breathing difficulties.",
+    "treatment": "Treatment depends on the cause and may include antibiotics and supportive care; good management helps prevent outbreaks."
+  },
+  "Caprine Viral Arthritis": {
+    "description": "A viral disease in goats, similar to Caprine Arthritis Encephalitis, causing chronic joint inflammation.",
+    "treatment": "No cure; management includes supportive care and culling affected animals."
+  },
+  "Caseous Lymphadenitis": {
+    "description": "A chronic bacterial infection in sheep and goats caused by Corynebacterium pseudotuberculosis, leading to abscesses in lymph nodes.",
+    "treatment": "Abscess drainage and antibiotics may help; control relies on culling and good hygiene."
+  },
+  "Chlamydia in Sheep": {
+    "description": "A bacterial infection in sheep caused by Chlamydia species, often resulting in abortion or conjunctivitis.",
+    "treatment": "Antibiotic therapy and improved management practices are recommended."
+  },
+  "Chronic Bronchitis": {
+    "description": "A long-term inflammation of the bronchi in animals, leading to persistent cough and respiratory distress.",
+    "treatment": "Management includes reducing exposure to irritants and providing supportive care; bronchodilators may be used."
+  },
+  "Coccidiosis": {
+    "description": "A parasitic disease caused by Eimeria species, affecting the intestines of many animals and leading to diarrhea and weight loss.",
+    "treatment": "Anticoccidial drugs and improved sanitation are used for treatment and prevention."
+  },
+  "Conjunctivitis": {
+    "description": "Inflammation of the conjunctiva in animals, often caused by infection, irritants, or allergens.",
+    "treatment": "Treatment depends on the cause and may include antibiotics, anti-inflammatories, and removing irritants."
+  },
+  "Contagious Abortion": {
+    "description": "A term for infectious causes of abortion in livestock, such as Brucella or Chlamydia species.",
+    "treatment": "Treatment and prevention depend on the specific pathogen and may include antibiotics, vaccination, and improved biosecurity."
+  },
+  "Contagious Ecthyma": {
+    "description": "Also known as Orf, a viral skin disease in sheep and goats causing pustular lesions around the mouth and nose.",
+    "treatment": "Lesions usually heal without treatment; supportive care and good hygiene are recommended."
+  },
+  "Cryptosporidiosis": {
+    "description": "A parasitic disease caused by Cryptosporidium species, leading to diarrhea in young animals.",
+    "treatment": "Supportive care is the main treatment; improved sanitation helps prevent outbreaks."
+  },
+  "Degenerative Joint Disease": {
+    "description": "A chronic condition in animals characterized by the breakdown of joint cartilage, leading to pain and reduced mobility.",
+    "treatment": "Management includes weight control, anti-inflammatory drugs, and joint supplements; surgery may be needed in severe cases."
+  },
+  "Distemper": {
+    "description": "A highly contagious viral disease affecting dogs and some wildlife, causing respiratory, gastrointestinal, and neurological symptoms.",
+    "treatment": "No specific treatment; supportive care and vaccination are essential for prevention."
+  },
+  "Enteritis": {
+    "description": "Inflammation of the intestines in animals, often caused by infection, leading to diarrhea and dehydration.",
+    "treatment": "Treatment includes fluid therapy, dietary management, and addressing the underlying cause."
+  },
+  "Equine Arthritis": {
+    "description": "A condition in horses characterized by joint inflammation, pain, and reduced mobility, often due to injury or aging.",
+    "treatment": "Management includes rest, anti-inflammatory drugs, joint supplements, and sometimes surgery."
+  },
+  "Equine Cushing's Disease": {
+    "description": "A hormonal disorder in horses caused by dysfunction of the pituitary gland, leading to abnormal hair growth and laminitis.",
+    "treatment": "Medical management with drugs like pergolide and dietary changes are recommended."
+  },
+  "Equine Encephalitis": {
+    "description": "A general term for inflammation of the brain in horses, often caused by viruses like Eastern, Western, or Venezuelan Equine Encephalitis viruses.",
+    "treatment": "Supportive care, anti-inflammatory drugs, and fluid therapy. Specific antiviral treatments are usually unavailable."
+  },
+  "Equine Encephalomyelitis": {
+    "description": "A group of mosquito-borne viral diseases (Eastern, Western, Venezuelan) that cause inflammation of the brain and spinal cord in horses.",
+    "treatment": "Primarily supportive care, including anti-inflammatory medications, fluids, and managing neurological symptoms. Vaccination is key for prevention."
+  },
+  "Equine Herpesvirus": {
+    "description": "A family of viruses (EHV-1, EHV-4 are common) that can cause respiratory disease, abortion, and neurological issues in horses.",
+    "treatment": "Supportive care, anti-inflammatory drugs, and antivirals in some cases. Vaccination helps reduce severity and spread."
+  },
+  "Equine Infectious Anemia": {
+    "description": "A viral disease of horses, ponies, and donkeys transmitted by blood-feeding insects, causing fever, anemia, and edema.",
+    "treatment": "No vaccine or cure; infected animals are lifelong carriers and typically require quarantine or euthanasia to prevent spread."
+  },
+  "Equine Influenza": {
+    "description": "A highly contagious viral respiratory disease in horses, causing fever, coughing, and nasal discharge.",
+    "treatment": "Rest, supportive care, and anti-inflammatory medications. Vaccination is effective for prevention."
+  },
+  "Equine Influenza Virus": {
+    "description": "The specific virus (Orthomyxoviridae family) responsible for equine influenza.",
+    "treatment": "Supportive care, rest, and anti-inflammatories. Prevention via vaccination is crucial."
+  },
+  "Equine Laminitis": {
+    "description": "A painful inflammatory condition of the laminae within the hoof, leading to lameness and potential rotation of the coffin bone.",
+    "treatment": "Pain management, corrective farriery, dietary changes, and addressing the underlying cause (e.g., metabolic issues, concussion)."
+  },
+  "Equine Leptospirosis": {
+    "description": "Bacterial disease in horses, primarily affecting the kidneys and eyes (equine recurrent uveitis), spread via contaminated water/urine.",
+    "treatment": "Antibiotics (e.g., tetracyclines) and anti-inflammatory drugs. May require long-term management for chronic eye issues."
+  },
+  "Equine Lyme Disease": {
+    "description": "Bacterial infection caused by Borrelia burgdorferi, transmitted by ticks, leading to lameness, arthritis, and neurological signs.",
+    "treatment": "Prolonged courses of antibiotics (e.g., tetracyclines or penicillin)."
+  },
+  "Equine Metabolic Syndrome": {
+    "description": "An endocrine disorder characterized by insulin dysregulation, obesity, and an increased risk of laminitis.",
+    "treatment": "Dietary management (low non-structural carbohydrates), exercise, and medications to improve insulin sensitivity."
+  },
+  "Equine Osteoarthritis": {
+    "description": "Degenerative joint disease in horses, causing progressive cartilage loss, bone changes, and lameness.",
+    "treatment": "Pain management (NSAIDs), joint injections (corticosteroids, hyaluronan), physical therapy, and joint supplements."
+  },
+  "Equine Piroplasmosis": {
+    "description": "Tick-borne parasitic disease affecting red blood cells, causing fever, anemia, and jaundice.",
+    "treatment": "Antiprotozoal drugs (e.g., imidocarb dipropionate). Testing and eradication programs are common in affected areas."
+  },
+  "Equine Pneumonia": {
+    "description": "Inflammation of the lungs in horses, often caused by bacterial or viral infections, leading to coughing, fever, and labored breathing.",
+    "treatment": "Antibiotics (for bacterial), anti-inflammatory drugs, bronchodilators, and supportive care."
+  },
+  "Equine Protozoal Myeloencephalitis": {
+    "description": "Neurological disease caused by the protozoan Sarcocystis neurona, leading to ataxia, weakness, and muscle atrophy.",
+    "treatment": "Antiprotozoal drugs (e.g., ponazuril, diclazuril) and supportive care."
+  },
+  "Equine Rhinopneumonitis": {
+    "description": "A common name for diseases caused by Equine Herpesvirus types 1 (EHV-1) and 4 (EHV-4), affecting respiratory, reproductive, and neurological systems.",
+    "treatment": "Supportive care, anti-inflammatory medications, and antivirals in some cases. Vaccination is preventative."
+  },
+  "Equine Viral Arteritis": {
+    "description": "Contagious viral disease causing respiratory illness, abortion, and edema in horses; spread through respiratory secretions and semen.",
+    "treatment": "Supportive care and isolation. Vaccination is available for breeding animals and those at risk."
+  },
+  "Equine West Nile Virus": {
+    "description": "Mosquito-borne viral disease causing neurological signs like ataxia, muscle tremors, and weakness in horses.",
+    "treatment": "Supportive care, anti-inflammatory drugs, and fluid therapy. Vaccination is highly effective for prevention."
+  },
+  "Feline Asthma": {
+    "description": "Chronic inflammatory condition of the airways in cats, causing coughing, wheezing, and difficulty breathing.",
+    "treatment": "Corticosteroids (oral or inhaled) and bronchodilators to reduce inflammation and open airways."
+  },
+  "Feline Calicivirus": {
+    "description": "A highly contagious viral infection in cats causing oral ulcers, respiratory signs, and sometimes lameness.",
+    "treatment": "Supportive care, including fluid therapy, pain management, and nutritional support. Antibiotics for secondary bacterial infections."
+  },
+  "Feline Chlamydia": {
+    "description": "Bacterial infection (Chlamydophila felis) in cats primarily causing conjunctivitis (eye inflammation).",
+    "treatment": "Antibiotics, usually topical or oral tetracyclines."
+  },
+  "Feline Chlamydiosis": {
+    "description": "Another name for Feline Chlamydia, a bacterial infection causing conjunctivitis and mild respiratory signs.",
+    "treatment": "Antibiotics, typically tetracyclines (topical or oral)."
+  },
+  "Feline Coronavirus": {
+    "description": "A common viral infection in cats, often causing mild gastrointestinal signs. Can mutate to Feline Infectious Peritonitis (FIP).",
+    "treatment": "Supportive care for mild cases. No specific antiviral for common coronavirus; FIP treatment is emerging but complex."
+  },
+  "Feline Herpesvirus": {
+    "description": "Also known as Feline Viral Rhinotracheitis (FVR), a common viral cause of upper respiratory infections in cats.",
+    "treatment": "Supportive care, including fluid therapy, nasal decongestants, and sometimes antiviral medications. Antibiotics for secondary bacterial infections."
+  },
+  "Feline Immunodeficiency Virus": {
+    "description": "A retrovirus that weakens a cat's immune system, making them susceptible to secondary infections.",
+    "treatment": "No cure; management focuses on supportive care, preventing secondary infections, and maintaining overall health."
+  },
+  "Feline Infectious Peritonitis": {
+    "description": "A fatal, progressive disease caused by a mutated feline coronavirus, leading to widespread inflammation and organ damage.",
+    "treatment": "Historically fatal; new antiviral treatments are emerging but are not universally available or approved."
+  },
+  "Feline Leukemia": {
+    "description": "A common term for Feline Leukemia Virus (FeLV) infection, a retrovirus that can cause various cancers, immune suppression, and anemia.",
+    "treatment": "No cure; management focuses on supportive care, treating secondary infections, and managing symptoms. Vaccination is available for prevention."
+  },
+  "Feline Leukemia Virus": {
+    "description": "A retrovirus that significantly suppresses a cat's immune system, leading to various diseases including lymphoma and anemia.",
+    "treatment": "No cure; supportive care, managing opportunistic infections, and addressing secondary conditions. Prevention through vaccination."
+  },
+  "Feline Panleukopenia": {
+    "description": "A highly contagious and often fatal viral disease in cats, especially kittens, causing severe gastrointestinal, immune, and neurological issues.",
+    "treatment": "Intensive supportive care including IV fluids, anti-nausea medication, antibiotics for secondary infections, and nutritional support."
+  },
+  "Feline Panleukopenia Virus": {
+    "description": "The parvovirus responsible for Feline Panleukopenia, leading to severe illness and high mortality rates in unvaccinated cats.",
+    "treatment": "Aggressive supportive care is crucial. Prevention is through vaccination."
+  },
+  "Feline Renal Disease": {
+    "description": "Chronic kidney disease in cats, a progressive and irreversible loss of kidney function.",
+    "treatment": "Dietary management, fluid therapy, medications to control symptoms (e.g., phosphorus binders, blood pressure meds), and supportive care."
+  },
+  "Feline Respiratory Disease Complex": {
+    "description": "A collective term for various viral and bacterial infections causing upper respiratory symptoms in cats, primarily Feline Herpesvirus and Calicivirus.",
+    "treatment": "Supportive care (fluids, nutritional support), antibiotics for bacterial components, and sometimes antivirals."
+  },
+  "Feline Respiratory Infection": {
+    "description": "General term for infections affecting the respiratory system of cats, often causing sneezing, nasal discharge, and coughing.",
+    "treatment": "Depends on the cause (viral/bacterial); supportive care, antibiotics (if bacterial), and anti-inflammatory drugs."
+  },
+  "Feline Rhinotracheitis": {
+    "description": "A specific viral infection in cats caused by Feline Herpesvirus-1, leading to acute upper respiratory signs and conjunctivitis.",
+    "treatment": "Supportive care, fluid therapy, and sometimes antiviral medications. Antibiotics for secondary bacterial infections."
+  },
+  "Feline Upper Respiratory Infection": {
+    "description": "A common ailment in cats, typically caused by Feline Herpesvirus and/or Calicivirus, resulting in sneezing, nasal discharge, and eye issues.",
+    "treatment": "Supportive care (hydration, nutrition), antibiotics for secondary bacterial infections, and symptomatic relief."
+  },
+  "Feline Viral Rhinotracheitis": {
+    "description": "Another name for Feline Herpesvirus infection, a primary cause of upper respiratory disease in cats.",
+    "treatment": "Supportive care, hydration, and sometimes antiviral drugs. Antibiotics are used if bacterial infections occur."
+  },
+  "Foot and Mouth Disease": {
+    "description": "A highly contagious viral disease of cloven-hoofed animals, causing fever and vesicular lesions (blisters) in the mouth and on the feet.",
+    "treatment": "No specific antiviral treatment; control involves culling affected and exposed animals, strict biosecurity, and vaccination in endemic areas."
+  },
+  "Foot-and-Mouth Disease": {
+    "description": "Synonymous with Foot and Mouth Disease, a severe, highly contagious viral disease affecting cloven-hoofed livestock.",
+    "treatment": "Control measures include quarantine, culling, movement restrictions, and vaccination in specific regions."
+  },
+  "Footrot": {
+    "description": "A contagious bacterial infection of the hoof in sheep and goats, causing lameness and foul-smelling lesions.",
+    "treatment": "Foot trimming, topical treatments (e.g., zinc sulfate), footbaths, and antibiotics (injectable for severe cases)."
+  },
+  "Fungal Infection": {
+    "description": "Diseases caused by various types of fungi, affecting skin, respiratory system, or internal organs, depending on the species and location.",
+    "treatment": "Antifungal medications (topical or systemic), duration varies based on type and severity of infection."
+  },
+  "Gastroenteritis": {
+    "description": "Inflammation of the gastrointestinal tract, causing vomiting and diarrhea, often due to infection, diet, or toxins.",
+    "treatment": "Supportive care, fluid therapy, anti-nausea medications, dietary management, and specific treatment for underlying cause if identified."
+  },
+  "Gastrointestinal Infection": {
+    "description": "Infection of the digestive system by bacteria, viruses, or parasites, leading to symptoms like vomiting, diarrhea, and abdominal pain.",
+    "treatment": "Varies by pathogen; includes antibiotics, antivirals, antiparasitics, fluid therapy, and supportive care."
+  },
+  "Gastrointestinal Stasis": {
+    "description": "A reduction or complete halt of food movement through the digestive tract, common in rabbits, leading to anorexia and bloating.",
+    "treatment": "Aggressive fluid therapy, pain relief, prokinetics (motility drugs), and addressing underlying causes."
+  },
+  "Giardiasis": {
+    "description": "Intestinal infection caused by the microscopic parasite Giardia, leading to diarrhea, especially in young animals.",
+    "treatment": "Antiparasitic medications (e.g., fenbendazole, metronidazole) and sanitation to prevent reinfection."
+  },
+  "Goat Pox": {
+    "description": "A contagious viral disease of goats, causing skin lesions, fever, and sometimes respiratory signs.",
+    "treatment": "No specific antiviral; supportive care, managing secondary infections. Vaccination is used in endemic areas."
+  },
+  "Heartworm Disease": {
+    "description": "A serious and potentially fatal parasitic disease transmitted by mosquitoes, where worms live in the heart, lungs, and blood vessels.",
+    "treatment": "Complex and lengthy, involving adulticide injections to kill worms, strict rest, and preventive medication. Prevention is key."
+  },
+  "Hyperthyroidism": {
+    "description": "A common endocrine disorder in older cats, caused by overactive thyroid glands, leading to weight loss, increased appetite, and hyperactivity.",
+    "treatment": "Medication (e.g., methimazole), radioactive iodine therapy, or surgical removal of the thyroid gland."
+  },
+  "Inflammatory Bowel Disease": {
+    "description": "A chronic condition in animals where the gastrointestinal tract becomes inflamed due to an abnormal immune response.",
+    "treatment": "Dietary changes, immunosuppressive medications (e.g., corticosteroids), and antibiotics for secondary bacterial overgrowth."
+  },
+  "Intestinal Parasites": {
+    "description": "Worms (e.g., roundworms, hookworms, tapeworms) or protozoa (e.g., coccidia) living in the intestines, causing digestive upset, poor growth, or other symptoms.",
+    "treatment": "Specific deworming medications (anthelmintics) or antiprotozoal drugs, and regular fecal exams for prevention."
+  },
+  "Johne's Disease": {
+    "description": "A chronic, progressive intestinal disease in ruminants caused by Mycobacterium avium subspecies paratuberculosis, leading to weight loss and diarrhea.",
+    "treatment": "No effective treatment; infected animals are usually culled to prevent spread. Prevention focuses on herd management and sanitation."
+  },
+  "Kennel Cough": {
+    "description": "A highly contagious respiratory disease in dogs, typically caused by a combination of viruses and bacteria, resulting in a harsh, dry cough.",
+    "treatment": "Rest, cough suppressants, and antibiotics for secondary bacterial infections. Vaccination is available for prevention."
+  },
+  "Laminitis": {
+    "description": "Painful inflammatory condition of the laminae within the hoof, common in horses, leading to lameness.",
+    "treatment": "Pain management, corrective farriery, dietary changes, and addressing the underlying cause."
+  },
+  "Leptospirosis": {
+    "description": "Bacterial disease affecting various animals and humans, causing kidney and liver damage; spread via contaminated water/urine.",
+    "treatment": "Antibiotics (e.g., doxycycline) and supportive care; vaccination is available for some species."
+  },
+  "Lyme Disease": {
+    "description": "Tick-borne bacterial infection (Borrelia burgdorferi) affecting various animals, causing lameness, joint pain, and other systemic signs.",
+    "treatment": "Prolonged courses of antibiotics (e.g., doxycycline); prevention through tick control and vaccination in endemic areas."
+  },
+  "Maedi-Visna": {
+    "description": "A chronic, progressive viral disease of sheep (and goats) primarily causing respiratory (Maedi) and neurological (Visna) signs.",
+    "treatment": "No cure; management involves culling infected animals to prevent spread. Prevention focuses on herd management and testing."
+  },
+  "Mastitis": {
+    "description": "Inflammation of the mammary gland, common in dairy animals, caused by bacterial infection, leading to decreased milk production and altered milk quality.",
+    "treatment": "Antibiotics (intramammary or systemic), anti-inflammatory drugs, and supportive care; prevention through hygiene and proper milking practices."
+  },
+  "Myxomatosis": {
+    "description": "A highly contagious and often fatal viral disease of rabbits, causing skin tumors, swelling, and respiratory distress.",
+    "treatment": "No specific antiviral treatment; supportive care may prolong life. Vaccination is key for prevention."
+  },
+  "Pancreatitis": {
+    "description": "Inflammation of the pancreas, causing digestive enzyme leakage and potential systemic complications, common in dogs and cats.",
+    "treatment": "Fluid therapy, pain management, anti-nausea medications, and dietary restrictions (e.g., low-fat diet)."
+  },
+  "Panleukopenia": {
+    "description": "Highly contagious and often fatal viral disease, primarily in cats (Feline Panleukopenia), causing severe gastrointestinal and immune suppression.",
+    "treatment": "Intensive supportive care including IV fluids, anti-nausea meds, and antibiotics for secondary infections. Vaccination is highly effective."
+  },
+  "Parvovirus": {
+    "description": "Highly contagious viral disease affecting dogs (Canine Parvovirus) or cats (Feline Panleukopenia), causing severe gastrointestinal symptoms.",
+    "treatment": "Aggressive supportive care (IV fluids, anti-nausea, antibiotics for secondary infections). Vaccination is crucial."
+  },
+  "Pasteurellosis": {
+    "description": "Bacterial infection caused by Pasteurella species, causing respiratory disease ('shipping fever'), abscesses, or septicemia in various livestock.",
+    "treatment": "Antibiotics are effective. Vaccination is available for prevention in some species."
+  },
+  "Pneumonia": {
+    "description": "Inflammation of the lungs, often caused by bacterial, viral, or fungal infections, leading to coughing, difficulty breathing, and fever.",
+    "treatment": "Antibiotics (if bacterial), antiviral/antifungal medications, anti-inflammatory drugs, and supportive care."
+  },
+  "Porcine Circovirus Disease": {
+    "description": "A group of diseases in pigs caused by Porcine Circovirus Type 2 (PCV2), leading to wasting, respiratory signs, and reproductive failure.",
+    "treatment": "No specific antiviral; supportive care and vaccination are effective in control."
+  },
+  "Porcine Epidemic Diarrhea": {
+    "description": "A highly contagious viral disease of pigs causing severe diarrhea, vomiting, and high mortality rates in piglets.",
+    "treatment": "No specific antiviral; supportive care, hydration, and strict biosecurity measures. Vaccination helps reduce severity."
+  },
+  "Porcine Epidemic Diarrhea Virus": {
+    "description": "The specific coronavirus responsible for Porcine Epidemic Diarrhea (PED), causing severe enteric disease in pigs.",
+    "treatment": "Focuses on supportive care and preventing spread. Biosecurity and vaccination are critical for control."
+  },
+  "Porcine Reproductive and Respiratory Syndrome": {
+    "description": "A viral disease (PRRSV) in pigs causing reproductive failure in breeding animals and respiratory disease in growing pigs.",
+    "treatment": "No specific antiviral; management involves supportive care, biosecurity, and vaccination to control outbreaks."
+  },
+  "Porcine Respiratory Disease Complex": {
+    "description": "A multifactorial respiratory disease in pigs involving various pathogens (viruses and bacteria) and environmental factors.",
+    "treatment": "Antibiotics (for bacterial components), anti-inflammatory drugs, and improved ventilation/management. Vaccination is common."
+  },
+  "Rabbit Calicivirus": {
+    "description": "A highly contagious and often fatal viral disease in rabbits, causing internal hemorrhages and sudden death. Also known as Rabbit Hemorrhagic Disease.",
+    "treatment": "No specific treatment; prevention is through vaccination and strict biosecurity."
+  },
+  "Rabbit Hemorrhagic Disease": {
+    "description": "A highly contagious and lethal viral disease (RHDV) in rabbits, characterized by sudden death and internal bleeding.",
+    "treatment": "No effective treatment; vaccination is the primary means of prevention and control."
+  },
+  "Rabbit Syphilis": {
+    "description": "Bacterial infection (Treponema cuniculi) in rabbits causing lesions around the face and genitals.",
+    "treatment": "Antibiotics (e.g., penicillin) are usually very effective."
+  },
+  "Rabbit Viral Hemorrhagic Disease": {
+    "description": "Synonymous with Rabbit Hemorrhagic Disease, a deadly viral infection causing acute liver necrosis and hemorrhage in rabbits.",
+    "treatment": "No cure; control relies on strict biosecurity and vaccination."
+  },
+  "Respiratory Infection": {
+    "description": "General term for infections affecting the respiratory tract, caused by viruses, bacteria, or fungi, leading to coughing, sneezing, and difficulty breathing.",
+    "treatment": "Depends on the causative agent; may include antibiotics, antivirals, anti-inflammatory drugs, and supportive care."
+  },
+  "Respiratory Syncytial Virus": {
+    "description": "A common respiratory virus in various species, causing mild to severe respiratory signs, especially in young animals.",
+    "treatment": "Supportive care; no specific antiviral treatment commonly used in animals."
+  },
+  "Ringworm": {
+    "description": "A common fungal infection of the skin, hair, and nails (dermatophytosis), causing circular patches of hair loss and scaling.",
+    "treatment": "Topical antifungal creams, shampoos, or oral antifungal medications, depending on severity and spread."
+  },
+  "Salmonellosis": {
+    "description": "Bacterial infection caused by Salmonella species, leading to diarrhea, fever, and sometimes septicemia in many animal species and humans.",
+    "treatment": "Antibiotics (if severe or systemic), fluid therapy, and supportive care. Strict hygiene is essential to prevent spread."
+  },
+  "Scrapie": {
+    "description": "A fatal, progressive neurodegenerative disease (prion disease) affecting sheep and goats, causing intense itching and neurological dysfunction.",
+    "treatment": "No treatment; affected animals are culled to prevent spread. Genetic selection for resistance is a control method."
+  },
+  "Scrapie Disease": {
+    "description": "Synonymous with Scrapie, a transmissible spongiform encephalopathy (prion disease) of sheep and goats, characterized by neurological signs.",
+    "treatment": "No treatment; eradication involves culling infected animals and genetic breeding programs for resistance."
+  },
+  "Snuffles": {
+    "description": "A common term for bacterial upper respiratory infection in rabbits, often caused by Pasteurella multocida, leading to sneezing, nasal discharge, and sometimes pneumonia.",
+    "treatment": "Antibiotics are used, but treatment can be prolonged and relapse is common due to chronic nature."
+  },
+  "Strangles": {
+    "description": "Highly contagious bacterial infection (Streptococcus equi) of horses, causing fever, nasal discharge, and abscesses in lymph nodes, particularly in the throat.",
+    "treatment": "Isolation, hot packing of abscesses, and sometimes antibiotics. Vaccination is available for prevention."
+  },
+  "Swine Dysentery": {
+    "description": "A contagious bacterial disease in pigs, causing severe diarrhea with mucus and blood, leading to dehydration and weight loss.",
+    "treatment": "Antibiotics (e.g., tiamulin, lincomycin) and strict biosecurity measures. Vaccination may be available in some regions."
+  },
+  "Swine Erysipelas": {
+    "description": "Bacterial disease (Erysipelothrix rhusiopathiae) in pigs causing diamond-shaped skin lesions, arthritis, and sudden death.",
+    "treatment": "Antibiotics (e.g., penicillin) are effective. Vaccination is commonly used for prevention."
+  },
+  "Swine Fever": {
+    "description": "A highly contagious viral disease of pigs, causing high fever, hemorrhages, and high mortality rates. Also known as Classical Swine Fever.",
+    "treatment": "No specific treatment; control involves culling, movement restrictions, and vaccination in endemic areas."
+  },
+  "Swine Flu": {
+    "description": "A common term for influenza in pigs, caused by various influenza A viruses, leading to respiratory illness.",
+    "treatment": "Supportive care; antibiotics for secondary bacterial infections. Vaccination can reduce disease severity."
+  },
+  "Swine Influenza": {
+    "description": "Viral respiratory disease in pigs caused by influenza A viruses, characterized by coughing, sneezing, and fever.",
+    "treatment": "Supportive care; antibiotics for secondary bacterial infections. Vaccination is used for prevention and control."
+  },
+  "Tick-Borne Disease": {
+    "description": "Diseases transmitted by ticks, caused by bacteria, viruses, or protozoa, leading to a variety of symptoms depending on the pathogen.",
+    "treatment": "Specific medications based on the pathogen (antibiotics, antiparasitics) and supportive care. Prevention relies on tick control."
+  },
+  "Tuberculosis": {
+    "description": "A chronic bacterial disease (Mycobacterium species) affecting respiratory and other organ systems in various animals and humans.",
+    "treatment": "Prolonged courses of multiple antibiotics; often involves culling in livestock due to public health concerns."
+  },
+  "Upper Respiratory Infection": {
+    "description": "Infections affecting the nose, throat, and sinuses, commonly caused by viruses or bacteria, leading to sneezing, nasal discharge, and coughing.",
+    "treatment": "Supportive care, fluids, and antibiotics if a bacterial component is present."
+  },
+  "Viral Hemorrhagic Disease": {
+    "description": "A severe and often fatal viral disease in rabbits (Rabbit Hemorrhagic Disease) or other animals, causing internal bleeding.",
+    "treatment": "No specific antiviral treatment; prevention is through vaccination and strict biosecurity."
+  },
+  "West Nile Virus": {
+    "description": "A mosquito-borne viral disease that can cause neurological symptoms in horses, birds, and humans.",
+    "treatment": "Supportive care and anti-inflammatory drugs in affected animals. Vaccination is highly effective for prevention in horses."
+  }
+}
