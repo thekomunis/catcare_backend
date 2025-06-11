@@ -69,7 +69,11 @@ const init = async () => {
         ) {
           return h.response({ error: "Invalid credentials." }).code(401);
         }
-        return result.rows[0];
+        return {
+          id: user.rows[0].id,
+          name: user.rows[0].name,
+          email: user.rows[0].email,
+        };
       } catch (err) {
         console.error(err);
         return h.response({ error: "Login failed." }).code(500);
